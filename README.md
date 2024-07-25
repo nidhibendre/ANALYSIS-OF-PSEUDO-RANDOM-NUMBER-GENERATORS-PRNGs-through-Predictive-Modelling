@@ -7,5 +7,5 @@ Our project acknowledges this issue as we try to crack a widely-used PRNG (XORSh
 <b>Problem Statement:</b> Given the last 4 generated numbers from a PRNG, can a neural network predict the next randomly generated number?
 
 
-** Won first place at Northeastern University's Data Club's annual Snowball Competition
+**Won first place at Northeastern University's Data Club's annual Snowball Competition**
 
